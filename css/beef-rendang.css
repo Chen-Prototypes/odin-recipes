@@ -15,16 +15,18 @@ h2 {
 }
 
 h3 {
-    font-size: 30px;
-    font-weight: 400;
+  font-size: 30px;
+  font-weight: 400;
 }
 
 .header-image {
-  width: auto;
-  height: 600px;
+  width: 800px;
+  height: auto;
 }
 
-p, ul, ol {
+p,
+ul,
+ol {
   font-size: 25px;
   font-weight: 300;
 }
