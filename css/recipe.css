@@ -1,7 +1,7 @@
 body {
   font-family: "Gill Sans", "Trebuchet MS", sans-serif;
   background-color: #f0ead6;
-  margin-left: 30px;
+  text-align: center;
 }
 
 h1 {
@@ -16,6 +16,12 @@ h2 {
   margin: 15px 0;
 }
 
+h3 {
+  font-size: 25px;
+  font-weight: 400;
+  margin: 10px 0;
+}
+
 .header-image {
   width: 800px;
   height: auto;
@@ -26,4 +32,20 @@ ul,
 ol {
   font-size: 25px;
   font-weight: 300;
+}
+
+.ingredients {
+  list-style-type: none;
+  padding-left: 0;
+  margin: 15px 0;
+}
+
+.steps {
+  list-style-type: decimal;
+  padding-left: 40px;
+  margin: 15px 0;
+}
+
+.homepage-button {
+  text-align: left;
 }
